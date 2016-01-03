@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "mirjahal/contact-me",
+    "description": "A Laravel Application for storing all your contacts.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",

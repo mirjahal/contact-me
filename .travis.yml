@@ -12,8 +12,4 @@ sudo: false
 install:
   - composer install --no-interaction --prefer-source
 
-before_script:
-  - touch database/database.sqlite
-  - php artisan migrate
-
 script: vendor/bin/phpunit

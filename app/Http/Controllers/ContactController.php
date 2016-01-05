@@ -8,9 +8,9 @@ use App\Http\Requests\ContactRequest;
 
 class ContactController extends Controller
 {
-    public function index()
+    public function index(Contact $contact)
     {
-        $contacts = Contact::all();
+        $contacts = $contact->all();
         return view('contact.index')->with('contacts', $contacts);
     }
     

@@ -14,7 +14,7 @@ A Laravel Application for storing all your contacts
 ### Installing
 * git clone https://github.com/mirjahal/contact-me contact-me
 * cd contact-me
-* Create database.sqlite in database folder
+* touch database/database.sqlite
 * composer install
 * php artisan migrate
 * bower install

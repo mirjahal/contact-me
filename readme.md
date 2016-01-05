@@ -1,4 +1,4 @@
-## Contact-me
+# Contact-me
 
 [![Build Status](https://api.travis-ci.org/mirjahal/contact-me.svg)](https://travis-ci.org/mirjahal/contact-me)
 
